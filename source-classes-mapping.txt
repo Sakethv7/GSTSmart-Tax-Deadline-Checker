@@ -1,0 +1,5 @@
+com/example/gstcalculator/BuildConfig.java
+ com.example.gstcalculator.BuildConfig
+com/example/gstcalculator/MainActivity.java
+ com.example.gstcalculator.MainActivity
+ com.example.gstcalculator.MainActivity$1
